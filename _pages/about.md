@@ -8,21 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome!  I am faculty member in the [Gianforte School of Computing](https://www.gsoc.montana.edu) at [Montana State University](https://www.montana.edu). 
+My research interests are broadly in applied algorithms, including computational biology and optimization problems, and I am part of the [Applied Algorithms Group](https://www.gsoc.montana.edu/aalab.html).
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+*I am actively recruiting new PhD students*. Please see my Research projects and contact me if you are interested in participating in one.  Prospective students should have a strong math/algorithms or biology background.
+
+My publications can be found on [Google scholar](https://scholar.google.com/citations?user=gw5eQs8AAAAJ) and I am also on [ResearchGate](https://www.researchgate.net/profile/Brendan-Mumey).  I enjoy collaborating on new topics; please get in touch if you might like to work on something.
+
+I earned a PhD in [Computer Science](https://www.cs.washington.edu) from the [University Washington](https://www.washington.edu), an MS in [Computer Science](https://www.cs.ubc.ca) from the [University of British Columbia](https://www.ubc.ca) and a BS in [Mathematics](https://www.math.ualberta.ca) from the [University of Alberta](https://www.ualberta.ca).
+
