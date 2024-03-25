@@ -14,13 +14,6 @@ I also like to work on basic algorithms and optimization problems from time to t
 <img src="/images/research/mpc-example.png" style="display: block; margin: auto;" />
 
 
-## Collaborators
-
-- Manuel Cáceres (Aalto University)
-- Alex Tomescu (University of Helsinki)
-- Sean Yaw (Montana State University)
-
-
 ## Select Publications
 
 - Manuel Cáceres, Massimo Cairo, Andreas Grigorjew, Shahbaz Khan, Brendan Mumey, Romeo Rizzi, Alexandru I. Tomescu, and Lucia Williams. 2024. Width Helps and Hinders Splitting Flows. ACM Transactions on Algorithms 20, 2, Article 13 (April 2024). 

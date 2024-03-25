@@ -29,14 +29,10 @@ coping with uncertainty in data, and handling multiple samples.
 <img src="/images/research/splicing-graph.png" style="display: block; margin: auto;" />
 
 
-## Collaborators
-
-- Lucia Williams (University of Montana)
-- Alex Tomescu (University of Helsinki)
 
 ## Funding
 
-[NSF-2309902](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309902) Scaling Flow Decomposition to Multi-Sample Multiassembly and Comparison
+- [NSF-2309902](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309902) Scaling Flow Decomposition to Multi-Sample Multiassembly and Comparison (joint with [Lucia Williams](https://lgw2.github.io), University of Montana)
 
 ## Select Publications
 
