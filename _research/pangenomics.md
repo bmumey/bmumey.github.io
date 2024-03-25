@@ -20,7 +20,7 @@ including connecting genomic regions to phenotypes such as expression levels and
 
 ## Funding
 
-[NSF-1759522](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1759522) Collaborative Research: Innovation: Pioneering New Approaches to Explore Pangenomic Space at Scale (joint with Joann Mudge (National Center for Genomics Research), Alan Cleary (National Center for Genomics Research), Thiru Ramaraj (DePaul University), Indika Kahanda (University of North Florida)
+- [NSF-1759522](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1759522) Collaborative Research: Innovation: Pioneering New Approaches to Explore Pangenomic Space at Scale. Joint with Joann Mudge (National Center for Genomics Research), Alan Cleary (National Center for Genomics Research), Thiru Ramaraj (DePaul University), Indika Kahanda (University of North Florida)
 
 ## Select Publications
 
