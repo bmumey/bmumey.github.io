@@ -7,9 +7,9 @@ I teach a variety of courses at MSU at the both the undergraduate and graduate l
 
 Some recent courses:
 
-- CSCI 232: Discrete Structures (Spring 2021)
+- CSCI 232: Data Structures and Algorithms (Spring 2021)
     - [Syllabus](/files/pdf/teaching/Syllabus (232Sp21).pdf)
-- CSCI 246: Data Structures and Algorithms (Spring 2024)
+- CSCI 246: Discrete Structures (Spring 2024)
     - [Syllabus](/files/pdf/teaching/Syllabus (246Sp24).pdf)
 - CSCI 451-551: Computational Biology (Fall 2023)
     - [Syllabus](/files/pdf/teaching/Syllabus (451-551Fa23).pdf)
